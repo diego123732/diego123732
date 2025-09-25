@@ -1,4 +1,4 @@
-# Hola 👋, soy **Diego Rojo** / Hi 👋, I'm **Diego Rojo**
+# 👋 Hola, soy **Diego Rojo** / Hi, I'm **Diego Rojo**
 
 
 ### 🔭 Sobre mí / About me
