@@ -25,6 +25,8 @@ languages ​​like Kotlin and Python, having developed them during my higher e
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diego123732&show_icons=true&theme=tokyonight)
 
+**Estadisticas CodeWars:**
+
 [![Codewars](https://www.codewars.com/users/diego123732/badges/large)](https://www.codewars.com/users/diego123732)
 
 
