@@ -11,7 +11,7 @@ I'm highly experienced, especially in Java and the web development framework Vue
 languages ​​like Kotlin and Python, having developed them during my higher education.
 
 
-### 🛠️ Tecnologías / technologies
+### 🛠️ Tecnologías / Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
@@ -19,7 +19,7 @@ languages ​​like Kotlin and Python, having developed them during my higher e
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-### 📈 Estadísticas / statistics
+### 📈 Estadísticas / Statistics
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diego123732&show_icons=true&theme=tokyonight)
@@ -30,7 +30,7 @@ languages ​​like Kotlin and Python, having developed them during my higher e
 
 
 
-### 📫 Contacto
+### 📫 Contacto / Contact
 - Email: rojnavarro.diego@gmail.com
 - LinkedIn: https://www.linkedin.com/in/diego-rojo-navarro-1ba023387/
 
